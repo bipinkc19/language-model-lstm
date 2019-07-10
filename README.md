@@ -1,10 +1,10 @@
 # Language Model in Shakespeare's style
 
+Generating new texts in Shakespeare's style
+
 ## Using LSTM's to generate new writings
 
 # Examples
-
-## Playing around with temperature sampling to create diverse writing or confident writing 
 
 ```
 seed == now the world's fresh ornament,
@@ -21,6 +21,9 @@ seed == now the world's fresh ornament,
     and be no man make him and dead as more
     that thou...
 ```
+
+
+## Playing around with temperature sampling to create diverse writing or confident writing for same seed
 
 ## When temperature is low, i.e. diversity is low
 ### This is words that the machine is very confident
