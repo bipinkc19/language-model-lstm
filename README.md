@@ -25,8 +25,7 @@ seed == now the world's fresh ornament,
 
 ## Playing around with temperature sampling to create diverse writing or confident writing for same seed
 
-## When temperature is low, i.e. diversity is low
-### This is words that the machine is very confident
+### When temperature is low, 0.1 i.e. diversity is low. This is words that the machine is very confident
 
 ```
 seed ==== for she is the beauty of the skin that holds in my
